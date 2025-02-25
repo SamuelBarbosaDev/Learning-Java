@@ -1,4 +1,4 @@
-# Learning-Java
+# Learning Java
 
 ![Java Logo](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg)
 
@@ -6,7 +6,7 @@ Bem-vindo ao repositório **Learning-Java**! Este repositório é dedicado ao me
 
 ## Índice
 
-- [Learning-Java](#learning-java)
+- [Learning Java](#learning-java)
   - [Índice](#índice)
   - [Introdução](#introdução)
   - [Estrutura do Repositório](#estrutura-do-repositório)
